@@ -1,6 +1,6 @@
-package com.thruman.dao;
+package com.ratel.single.dao;
 
-import com.thruman.pojo.Demo;
+import com.ratel.single.pojo.Demo;
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Param;
 import org.apache.ibatis.annotations.Select;

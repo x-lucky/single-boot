@@ -7,6 +7,21 @@ spring:
     username: pintuan
     password: FJAOFbhS0sMzyZzY
 
+
+
+#swagger
+swagger:
+  title: demo
+  description: demo接口文档
+  version: 1.0
+
+
+
 #日志配置
 #logging:
 #  config: classpath:logback.xml
+
+#全局异常处理
+ratel:
+  exception:
+    '1000': 系统异常

@@ -1,7 +1,9 @@
-package com.thruman.controller;
+package com.ratel.single.controller;
 
-import com.thruman.pojo.Demo;
-import com.thruman.service.DemoService;
+import com.ratel.single.exception.BusinessException;
+import com.ratel.single.pojo.Demo;
+import com.ratel.single.pojo.RestResult;
+import com.ratel.single.service.DemoService;
 import io.swagger.annotations.ApiOperation;
 import org.springframework.web.bind.annotation.*;
 
@@ -26,6 +28,14 @@ public class DemoController {
     }
 
 
+    @PostMapping("/exc")
+    @ApiOperation(value = "exc",tags = "demo")
+    public RestResult exc(@RequestBody Long id){
+        if (id != null){
+            throw new BusinessException(1000);
+        }
+        return new RestResult().data(id);
+    }
 
 
 }

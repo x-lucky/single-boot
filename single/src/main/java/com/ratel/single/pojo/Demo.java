@@ -1,9 +1,7 @@
-package com.thruman.pojo;
+package com.ratel.single.pojo;
 
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;
-
-import javax.validation.constraints.NotNull;
 
 /**
  * @author niexiang

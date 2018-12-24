@@ -1,8 +1,8 @@
-package com.thruman.service.impl;
+package com.ratel.single.service.impl;
 
-import com.thruman.dao.DemoMapper;
-import com.thruman.pojo.Demo;
-import com.thruman.service.DemoService;
+import com.ratel.single.dao.DemoMapper;
+import com.ratel.single.pojo.Demo;
+import com.ratel.single.service.DemoService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
