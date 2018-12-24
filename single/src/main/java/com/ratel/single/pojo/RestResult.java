@@ -28,10 +28,11 @@ public class RestResult<T> implements Serializable {
     )
     protected T data;
 
-    public RestResult() {
+    public RestResult(T data) {
         this.code = ResultCodeEnum.OK.getCode();
         this.message = ResultCodeEnum.OK.getMessage();
         this.timestamp = System.currentTimeMillis();
+        this.data = data;
     }
 
     public int getCode() {

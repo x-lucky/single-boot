@@ -34,7 +34,7 @@ public class DemoController {
         if (id != null){
             throw new BusinessException(1000);
         }
-        return new RestResult().data(id);
+        return new RestResult(id);
     }
 
 
