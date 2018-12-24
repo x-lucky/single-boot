@@ -9,7 +9,7 @@ spring:
 
 
 
-#swagger
+#swagger http://localhost:9992/swagger-ui.html#!
 swagger:
   title: demo
   description: demo接口文档
