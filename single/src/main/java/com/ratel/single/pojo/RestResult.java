@@ -35,6 +35,12 @@ public class RestResult<T> implements Serializable {
         this.data = data;
     }
 
+    public RestResult() {
+        this.code = ResultCodeEnum.OK.getCode();
+        this.message = ResultCodeEnum.OK.getMessage();
+        this.timestamp = System.currentTimeMillis();
+    }
+
     public int getCode() {
         return this.code;
     }
