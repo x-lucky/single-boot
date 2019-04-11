@@ -22,7 +22,7 @@ public interface SegmentTemplet<T,K> {
     default List<K> batch(List<T> list,Integer batchSize){
         List<K> result = new ArrayList<>();
         int size = list.size();
-        if (size == 0) {
+        if (size == 0 || batchSize == 0) {
             return result;
         }
         int ceil = (int) Math.ceil(size / (double)batchSize);
@@ -31,7 +31,7 @@ public interface SegmentTemplet<T,K> {
             //当次循环的参数
             int startIndex = batchSize * i;
             if (i == ceil - 1){
-                currentList = list.subList(startIndex,startIndex + size % batchSize);
+                currentList = list.subList(startIndex,startIndex + (size == batchSize ? batchSize : size % batchSize));
             }else{
                 currentList = list.subList(startIndex,startIndex + batchSize);
             }
