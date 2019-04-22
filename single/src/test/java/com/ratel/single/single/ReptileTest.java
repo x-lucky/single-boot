@@ -1,16 +1,17 @@
 package com.ratel.single.single;
 
+import com.alibaba.fastjson.JSON;
 import com.power.common.util.OkHttp3Util;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
-import org.jsoup.nodes.Node;
 import org.jsoup.select.Elements;
 import org.junit.Test;
 
 import java.io.File;
-import java.io.IOException;
+import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 
 /**
@@ -18,6 +19,11 @@ import java.util.Map;
  * Date: 2019/4/21
  */
 public class ReptileTest {
+
+
+
+
+
 
 
 
@@ -58,17 +64,42 @@ public class ReptileTest {
         //验证数据
         Elements ths = trs.get(0).getElementsByTag("th");
         Element valid = ths.get(0);
-        Node node = valid.childNode(0);
-        if (node.toString().equals("高校名称")) {
+        if (!valid.text().equals("高校名称")) {
             throw new Exception("没数据了");
         }
-
+        List<SchoolInfo> schoolInfos = new ArrayList<>();
         int size = trs.size();
-        for (int i = 1; i < size; i++) {
+        for (int i = 2; i < size; i++) {
+            SchoolInfo schoolInfo = new SchoolInfo();
             Element schoolInfoEle = trs.get(i);
-            System.out.println(schoolInfoEle);
+            Elements tds = schoolInfoEle.getElementsByTag("td");
+            System.out.println("--------------------------------");
+            System.out.println(tds);
+            System.out.println("--------------------------------");
+            for (int j = 0; j < tds.size(); j++) {
+                Element td = tds.get(j);
+                String text = td.text();
+                switch (j){
+                    case 0 :
+                        schoolInfo.setSchoolName(text);
+                        continue;
+                    case 1 :
+                        schoolInfo.setSchoolLocation(text);
+                        continue;
+                    case 2 :
+                        schoolInfo.setBatch(text);
+                        continue;
+                    case 4 :
+                        schoolInfo.setScoreLimit(text);
+                        continue;
+                    case 5 :
+                        schoolInfo.setSchoolAverage(text);
+                        continue;
+                }
+            }
+            schoolInfos.add(schoolInfo);
         }
-
+        System.out.println(JSON.toJSONString(schoolInfos));
 
     }
 

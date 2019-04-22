@@ -17,20 +17,65 @@ public class SchoolInfo {
     private String schoolLocation;
 
     private String batch;
-    /**
-     * 录取线差
-     */
-    private Integer disparity;
 
     /**
      * 分数线
      */
-    private Integer scoreLimit;
+    private String scoreLimit;
 
     /**
      * 高校平均分
      */
-    private Integer schoolAverage;
+    private String schoolAverage;
 
+    public String getSchoolName() {
+        return schoolName;
+    }
 
+    public void setSchoolName(String schoolName) {
+        this.schoolName = schoolName;
+    }
+
+    public String getSchoolLocation() {
+        return schoolLocation;
+    }
+
+    public void setSchoolLocation(String schoolLocation) {
+        this.schoolLocation = schoolLocation;
+    }
+
+    public String getBatch() {
+        return batch;
+    }
+
+    public void setBatch(String batch) {
+        this.batch = batch;
+    }
+
+    public String getScoreLimit() {
+        return scoreLimit;
+    }
+
+    public void setScoreLimit(String scoreLimit) {
+        this.scoreLimit = scoreLimit;
+    }
+
+    public String getSchoolAverage() {
+        return schoolAverage;
+    }
+
+    public void setSchoolAverage(String schoolAverage) {
+        this.schoolAverage = schoolAverage;
+    }
+
+    @Override
+    public String toString() {
+        return "SchoolInfo{" +
+                "schoolName='" + schoolName + '\'' +
+                ", schoolLocation='" + schoolLocation + '\'' +
+                ", batch='" + batch + '\'' +
+                ", scoreLimit='" + scoreLimit + '\'' +
+                ", schoolAverage='" + schoolAverage + '\'' +
+                '}';
+    }
 }
