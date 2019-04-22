@@ -1,0 +1,1670 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>估分选大学 | 根据往年录取分数选学校_阳光高考</title>
+<meta http-equiv="keywords" content="估分选大学,高校往年录取分,高考填志愿,估分填志愿,模拟填报志愿" />
+<link rel="dns-prefetch" href="//axvert.chsi.com.cn">
+<link rel="dns-prefetch" href="//t1.chei.com.cn">
+<link rel="dns-prefetch" href="//t2.chei.com.cn">
+<link rel="dns-prefetch" href="//t3.chei.com.cn">
+<link rel="dns-prefetch" href="//t4.chei.com.cn">
+<link rel="dns-prefetch" href="//www.google-analytics.com">
+<style type="text/css">
+body, ul, li, p, h1, h2, h3, h4, h5, h6, form, fieldset, img {margin:0;padding:0;border:0;font-family:"宋体";}
+body,p,select,input{
+	font-size:12px;
+	color:#555555;
+}
+body{
+	margin:0 auto;
+	text-align:center;
+	background-color:#FFFFFF;
+	line-height:21px;
+}
+img{
+	border:0;
+}
+p{ text-indent:2em;}
+ul,li{list-style:none;}
+.clearit{clear:both;font-size:0;line-height:0;height:0; overflow:hidden;}
+.line{ height:17px; line-height:17px; background:url(https://t4.chei.com.cn/gaokao/images/zsjh/greenLine.gif) repeat-x center; overflow:hidden; clear:both;}
+.buttonGreen{ width:48px; height:21px; line-height:21px;background:url(https://t2.chei.com.cn/gaokao/images/zsjh/greenBtn.gif) no-repeat top; border:0; color:#FFFFFF; font-size:12px; cursor:pointer;}
+.buttonGreen2{width:70px; height:39px;background:url(https://t4.chei.com.cn/gaokao/images/common/greenBtn2.gif) no-repeat top; border:0; cursor:pointer;}
+.color1{ color:#333;}
+.c_060{color:#060;}
+.c_06c{color:#06C;}
+.c_999{color:#999;}
+.c_f00,.red{color:#F00;}
+.f_bold{font-weight:bold;}
+.align_center{ text-align:center;}
+.font01{font-size:14px; font-family:"微软雅黑"; font-weight:bold; color:#060;}
+
+/*正文文字的css*/
+a:link,a:visited{
+	color:#333;
+	text-decoration:none;
+}
+a:hover,a:active{
+	color:#990000;
+	text-decoration:underline;
+}
+.bodydiv{width:950px;background-color:#FFF;clear:both;text-align:center;margin:4px auto 0 auto;}
+
+/*顶部banner图片*/
+.divtop{width:950px;height:100px; text-align:left; color:#FFFFFF; background:url(https://t2.chei.com.cn/gaokao/images/sch/banner_lqfs.png?20170621) no-repeat left top;clear:both;border:0;margin-bottom:4px; position:relative;overflow:hidden;}
+.banner{height:40px; width:930px; padding-left:20px; text-align:left;background:#46943E url(https://t4.chei.com.cn/gaokao/images/yxxx/schNavBG.png) no-repeat left top; color:#FFF; margin-bottom:6px;}
+.banner a, .banner a:link, .banner a:visited{ color:#FFF;}
+.s_input1{border:1px solid #6DBB65; height:15px; width:60px;}
+.s_input2{border:1px solid #6DBB65; height:15px; width:100px;}
+.s_button1{width:48px; height:21px; color:#FFF; border:none; background:#06C url(https://t1.chei.com.cn/gaokao/images/common/blueBtn.gif) no-repeat top left; cursor:pointer;}
+
+.all950{ width:950px; background:url(https://t3.chei.com.cn/gaokao/images/common/all_top.png) no-repeat top left; margin-bottom:6px; padding-top:4px;}
+.all950_cnt{border-left:1px solid #87C47B; border-right:1px solid #87C47B; padding:0 20px 10px 20px;height:auto!important;height:242px;min-height:242px;}
+.all950_cnt h2{ font-size:16px; font-family:"微软雅黑"; color:#060; line-height:30px; padding-top:10px;}
+.all950_cnt h2 span.subTitle{font-size:14px;}
+.all950_btm{height:4px; background:url(https://t1.chei.com.cn/gaokao/images/common/all_btm.png) no-repeat top center; overflow:hidden; clear:both;}
+
+.left{float:left; display:inline; width:742px; background:url(https://t1.chei.com.cn/gaokao/images/common/ltop.png) no-repeat top left; margin-bottom:6px; padding-top:4px;}
+.left h2{ font-size:14px; font-family:"微软雅黑"; color:#099; line-height:30px; margin:0 20px; padding-top:10px;}
+.left h4{ font-size:14px; font-family:"微软雅黑"; color:#060; height:30px; line-height:30px;}
+.left .search{ border-left:1px solid #87C47B; border-right:1px solid #87C47B; padding:0 20px 10px 20px;}
+.left .searchFoot{height:4px; background:url(https://t4.chei.com.cn/gaokao/images/zsjh/lbot.gif) no-repeat top center; overflow:hidden; clear:both;}
+.left .searchTable{margin-left:45px; line-height:40px; font-size:14px; float:left; display:inline;}
+.left td{ color:#666;}
+.left td a,.left td a:link,.left td a:visited{ color:#060;}
+ul.left_zszy li{float:left; display:inline; height:21px;margin-right:10px;white-space:nowrap;}
+.zy a{padding:2px;color:#060;line-height:14px;white-space:nowrap;}
+.zy a.current{ background:#060; color:#FFF !important; margin-right:2px;}
+.zy a.favorite{background:url(https://t3.chei.com.cn/gaokao/images/sch/lqfs_save.png) no-repeat 0 0; width:46px; height:18px; padding:0; display:block; overflow:hidden;}
+.zy a.favorite:hover{ text-decoration:none;}
+.zy a.remove{ background:url(https://t3.chei.com.cn/gaokao/images/sch/lqfs_save.png) no-repeat 0 -18px;}
+
+h2 a.favorite{padding:2px;color:#060;line-height:14px; margin-left:2px; float:left; display:inline;}
+h2 a.favorite{background:url(https://t3.chei.com.cn/gaokao/images/sch/lqfs_save.png) no-repeat 0 0; width:46px; height:18px; padding:0; overflow:hidden;}
+h2 a.favorite:hover{ text-decoration:none;}
+h2 a.remove{ background:url(https://t3.chei.com.cn/gaokao/images/sch/lqfs_save.png) no-repeat 0 -18px;}
+
+td.name span{float:left;}
+td.name a.favorite{padding:2px;color:#060;line-height:14px;white-space:nowrap;float:left; display:inline;}
+td.name a.favorite{background:url(https://t3.chei.com.cn/gaokao/images/sch/lqfs_save.png) no-repeat 0 0; width:46px; height:18px; padding:0; overflow:hidden;}
+td.name a.favorite:hover{ text-decoration:none;}
+td.name a.remove{ background:url(https://t3.chei.com.cn/gaokao/images/sch/lqfs_save.png) no-repeat 0 -18px;}
+.chooseDiv{border:1px solid #E1E1E1; border-bottom:none; line-height:28px; background:url(https://t3.chei.com.cn/gaokao/images/common/greyBG.gif) repeat-x top;}
+.chooseDiv input{ margin:0; padding:0; width:13px; height:13px;}
+.choose_selector{ height:22px; line-height:22px; margin:4px 0 0 4px; padding:0 21px 0 5px; border:1px solid #CECBCE; background:#FFFFFF; float:left; display:inline; position:relative; cursor:pointer;}
+.choose_selector span.iconDiv{ height:22px; width:16px; background:url(https://t3.chei.com.cn/gaokao/images/common/greyBG.gif) repeat-x top; display:block; border-left:1px solid #CECBCE; position:absolute; right:0; top:0;}
+.choose_selector span.icon{ width:16px; height:16px; background:url(//t1.chei.com.cn/common/jqueryui/1.8.11/themes/smoothness/images/ui-icons_222222_256x240.png) no-repeat -64px 0; display:block; position:absolute; right:0; top:4px;}
+.choose_selector_sub{ background:#FFFFFF; border:1px solid #CECBCE; position:absolute; width:300px; padding:6px 10px; position:absolute; top:22px; left:-1px; cursor:default;box-shadow:2px 2px 2px #CCCCCC; display:none;}
+.choose_selector_sub a{ margin:4px; float:left; display:inline; line-height:14px; padding:1px;color:#036;white-space:nowrap;}
+.choose_selector_sub a:link,.choose_selector_sub a:visited{color:#036;}
+.choose_selector_sub a:hover{color:#FFFFFF; background:#036; text-decoration:none;}
+.choose_selector_sub a.selected{color:#FFFFFF !important; background:#036;}
+
+.cnt_table{ margin-top:8px; background:#DDDDDD;}
+.tip_org{ text-align:center; color:#F60; line-height:30px;}
+.zy_radio{ height:25px; margin-top:8px; float:left; display:inline; border-left:1px solid #DDD;}
+.zy_radio span{ height:23px; line-height:23px; border:1px solid #DDD; border-left:none; padding:0 6px; float:left; display:inline; cursor:pointer;}
+.zy_radio span.onReadSpan{ font-weight:bold; color:#099; background:url(https://t3.chei.com.cn/gaokao/images/common/greyBG.gif) repeat-x top;}
+
+.zy_shoucang a.favorite{width:15px; height:15px; display:block; margin:0 auto; background:url(https://t2.chei.com.cn/gaokao/images/sch/saveStar.png) no-repeat; overflow:hidden; cursor:pointer;}
+.zy_shoucang a.remove{background:url(https://t2.chei.com.cn/gaokao/images/sch/saveStar.png) no-repeat 0 -15px;}
+
+
+.sortDown,.sortUp{ width:12px; height:13px; display:block; margin-left:3px; overflow:hidden; cursor:pointer;}
+.sortDown{ background:url(https://t4.chei.com.cn/gaokao/images/sch/lqfs_sort.png) no-repeat left top;}
+.sortUp{ background:url(https://t4.chei.com.cn/gaokao/images/sch/lqfs_sort.png) no-repeat 0 -13px;}
+.sortDownOn{ background:url(https://t4.chei.com.cn/gaokao/images/sch/lqfs_sort.png) no-repeat -12px top;}
+.sortUpOn{ background:url(https://t4.chei.com.cn/gaokao/images/sch/lqfs_sort.png) no-repeat -12px -13px;}
+
+.lqfs_index_table{ margin:0 auto; line-height:24px;}
+.lqfs_index_table th{ font-size:14px; font-family:"微软雅黑"; font-weight:bold; text-align:right; color:#060;}
+.lqfs_tips ul li{ float:left; padding-right:10px;}
+.page{ padding:10px;}
+.right{float:right; display:inline; width:200px; text-align:left;}
+.rDiv{margin-bottom:6px; background:url(https://t4.chei.com.cn/gaokao/images/zsjh/rtop.gif) no-repeat top left;}
+.rDiv h3{font-size:14px; font-family:"微软雅黑"; color:#060; height:29px; line-height:29px; padding-left:30px;}
+.rDivCnt{border-left:1px solid #87C47B; border-right:1px solid #87C47B; padding:10px 8px;}
+.rDivCnt ul{width:188px;}
+.rDivCnt ul li{ width:94px; float:left; display:inline;}
+.rDivFoot{height:4px; background:url(https://t4.chei.com.cn/gaokao/images/zsjh/rbot.gif) no-repeat left top; overflow:hidden; clear:both;}
+.respondMessage{ width:150px; position:absolute; left:0px; top:0px;background:#FFD;border: 1px solid #95C4DA;border-radius:3px;box-shadow: 0 0 3px #39C;padding:8px; display:none;}
+.notlogin{ height:35px; line-height:35px; color:#090; font-size:18px; font-weight:bold; font-family:"微软雅黑"; text-align:center;}
+/*分页*/
+.pagebox{ height:32px; line-height:32px; float:right; clear:both;}
+.pagebox,.pagebox li, .pagebox a{font-size:12px;font-family:tahoma, Arial, 'Microsoft YaHei', \5FAE\8F6F\96C5\9ED1, SimSun, sans-serif;}
+.pageForm{ float:right;}
+.ulPage{ float:left; display:inline;}
+.ulPage li.lip{ position:relative; float:left; display:inline; border:1px solid #ddd; margin-left:-1px;height: 30px; color: #3e3e3e;text-align: center;line-height: 30px;}
+.ulPage li.lip:hover {border-color: #393;text-decoration: none;z-index:1;}
+.ulPage li.lip a,.ulPage li.lip a:link,.ulPage li.lip a:visited{color:#333; text-decoration:none; display:block; padding:0 12px;}
+.p-padding{ padding:0 12px;}
+.ulPage li.lip a:hover{ text-decoration:none; color:#393;}
+.ulPage li.dot{ border:none; width:24px;}
+.ulPage li.selected, .ulPage li.selected:hover{background: #393;color: #fff;border-color: #393;cursor: default;text-decoration: none;z-index:1;}
+.ulPage li.selected a,.ulPage li.selected a:link,.ulPage li.selected a:visited{color:#fff; cursor:default;}
+.ulPage li.unable,.ulPage li.unable:hover{ color:#ccc; background:#f9f9f9; border:1px solid #ddd; cursor:default; text-decoration:none;}
+.page-go{float:left; display:inline; margin-left:12px;}
+.p-go-num{ width:50px; height:24px; padding:0 2px; float:left;margin:3px 4px 0 4px;}
+.p-go-text{color:#999; float:left;}
+.p-go-btn{ float:left; display:block; height:24px; border:1px solid #ccc; border-radius:3px; margin-top:3px; padding:0 8px; margin-left:8px; background:#f3f3f3; cursor:pointer;}
+.p-go-btn:hover{ background:#f9f9f9;}
+</style>
+<script type="text/javascript" src="https://t1.chei.com.cn/common/jquery/1.8.3/jquery.min.js"></script>
+<script type="text/javascript" src="https://t4.chei.com.cn/gaokao/js/jquery/jquery-ui-1.7.3.custom.min.js"></script>
+<script type="text/javascript" src="https://t1.chei.com.cn/common/plugins/autocomplete/jquery.autocomplete.js"></script>
+<link rel="stylesheet" href="https://t2.chei.com.cn/gaokao/css/jquery/jquery-ui-1.7.3.custom.css" type="text/css" />
+<link rel="stylesheet" type="text/css" href="https://t1.chei.com.cn/common/plugins/autocomplete/jquery.autocomplete.css" />
+
+
+<script src="//t1.chei.com.cn/common/js/boomerang-min-20141211.js" type="text/javascript"></script>
+<script type="text/javascript">
+BOOMR.init({
+	beacon_url: "//www.chsi.com.cn/images/perf.gif",
+	log: null,
+    DNS:{
+        base_url: "//*.chdi.com.cn/images/"
+    }
+});
+</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-100524-6"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'UA-100524-6', {'sampleRate': 8});
+</script>
+
+
+</head>
+<body>
+<img src='//t1.chei.com.cn/common/wap/images/share_gk.jpg' width='0' height='0' style='position: absolute;top:-100px;left: 0'/>
+
+
+
+
+
+
+
+<style type="text/css">
+ul,li {list-style:none; margin:0; padding:0;}
+.t_topNav{ height:34px; line-height:34px; background:#F6F6F6; color:#333333; font-size:12px; font-family:"\5FAE\8F6F\96C5\9ED1","Microsoft Yahei"; border-bottom:1px solid #DDDDDD;}
+.t_topNav950{ width:950px; margin:0 auto;}
+.t_topNav_l{ width:800px; height:34px; float:left; display:inline; overflow:hidden;}
+.t_topNav_l a,.t_topNav_l a:link,.t_topNav_l a:visited{color:#333333; text-decoration:none; padding:0 8px; display:block; float:left;}
+.t_topNav_l a:hover{ text-decoration:none; background:#E9E9E9;}
+.t_topNav_r{ float:right; display:inline; width:150px; position:relative; z-index:999;}
+.t_topNav_r a,.t_topNav_r a:link,.t_topNav_r a:visited{color:#333333; text-decoration:none;}
+.t_topNav_r a:hover{ text-decoration:underline;}
+.t_topNav_r_log{ float:right; display:inline; padding:0 4px;}
+.h_float_login{ background:#FFFFFF; color:#333333; border:1px solid #E3E3E3; border-top:none; padding:15px 15px 10px 15px; position:absolute; right:0; top:34px;box-shadow:2px 2px 2px #CCCCCC; z-index:1000; display:none;}
+.h_arrow{position:absolute; right:57px; top:29px;border-bottom:6px solid #FFFFFF;border-left: 6px solid transparent;border-right: 6px solid transparent;display: none;height: 0;width: 0;overflow: hidden; z-index:1001;}
+.h_closeicon{position:absolute; right:5px; top:38px; height:16px; width:16px; background:url(//t1.chei.com.cn/common/jqueryui/1.8.11/themes/smoothness/images/ui-icons_454545_256x240.png) no-repeat -96px -128px; overflow:hidden; cursor:pointer; display:none; z-index:1001;}
+.h_login_input{width:130px; height:26px; line-height:26px; border:1px solid #DDDDDD; text-indent:4px;}
+.h_button_login{ width:90px; height:35px; background:url(//t1.chei.com.cn/gaokao/images/common/user_login.png) no-repeat 0 0; overflow:hidden; border:none; cursor:pointer;}
+.h_button_login_on{ width:90px; height:35px; background:url(//t1.chei.com.cn/gaokao/images/common/user_login.png) no-repeat 0 -37px; overflow:hidden; border:none; cursor:pointer;}
+.login_text{ width:150px; position:relative; left:0; top:0; padding-top:34px;}
+.logined_un,a.logined_un{ position:absolute; left:0; top:0; display:block; width:90px; padding:0 5px; height:34px; text-align:right; overflow:hidden; color:#069 !important;}
+.logined_ext{ position:absolute; right:5px; top:0; display:block; height:34px; overflow:hidden;}
+a.logined_ext:hover{ text-decoration:underline;}
+.logined_floatLayer{ display:block; position:absolute; top:34px; right:37px; width:55px; padding:4px 10px 10px 10px; border:1px solid #DDDDDD; border-top:none;background:#FFFFFF; z-index:1000; display:none;}
+.logined_floatLayer a{ display:block; height:30px; line-height:30px; width:50px; text-align:center; margin:0 auto; border-bottom:1px dotted #CCC; color:#069 !important;}
+.logined_nodisplay{ display:none;}
+.logined_h_arrow{position:absolute; right:69px; top:29px;border-bottom:6px solid #FFFFFF;border-left: 6px solid transparent;border-right: 6px solid transparent;display: none;height: 0;width: 0;overflow: hidden; z-index:1001;}
+span.loginen_ar{ position:absolute; right:40px; top:10px; width:16px; height:16px; overflow:hidden; display:block; background:url(//t1.chei.com.cn/common/jqueryui/1.8.11/themes/cupertino/images/ui-icons_3d80b3_256x240.png) no-repeat -64px 0; cursor:pointer;}
+</style>
+
+<div class="t_topNav" id="t_topNav">
+	<div class="t_topNav950">
+		<div class="t_topNav_l">
+		<a href="/">首页</a><a href="/zsgs/mdgs.jsp">名单公示</a><a href="/zsgs/zhangcheng/">招生章程</a><a href="/sch/">院校库</a><a href="/lqfs/">高校录取分数</a><a href="/zyk/pub/myd/schAppraisalTop.action">院校满意度</a><a href="/zyk/pub/myd/specAppraisalTop.action">专业满意度</a><a href="/zyk/pub/zytj/recommendTop.action">专业推荐</a><a href="/zyk/zybk/">专业知识库</a><a href="/zxdy/">咨询周</a><a href="/zxdy/zxs--method-listDefault,forumid-6267733,year-2007,start-0.dhtml">咨询室</a>
+		</div>
+		<div class="t_topNav_r">
+			
+
+
+
+
+<style type="text/css">
+	.t_topNav_r {
+		text-align: right;
+	}
+	.t_topNav_r .top-cutline {
+		margin: 0 10px;
+	}
+	.t_topNav a.username {
+		color: #5eba79;
+		width: 100px;
+		float: left;
+		overflow: hidden;
+		text-overflow: ellipsis;
+	}
+</style>
+
+    <a href="/zx/follow/systemMessageShow.action?systemMessageType=FOLLOWER_MESSAGE" class="username" title="1006556989@qq.com">1006556989@qq.com</a><span class="top-cutline">|</span><a href="javascript:;" onclick="pubUserlogout();">退出</a><a style="display: none;" href="/zx/logout/?service=gaokao.chsi.com.cn"><span id="logoutZx">&nbsp;</span></a><a style="display: none;" href="/logout/?service=gaokao.chsi.com.cn"><span id="logoutZsxx">&nbsp;</span></a>
+    <script>
+        function pubUserlogout() {
+            $('#logoutZx').click();
+            $('#logoutZsxx').click();
+        }
+    </script>
+
+
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+function loadJquery(callback) {
+	var addjqsrc = true;
+	if(document.getElementsByTagName("script").length > 0){
+		var scriptstr  = document.getElementsByTagName("script");
+		for(var itest = 0;itest<scriptstr.length;itest++){
+			if(scriptstr[itest].getAttribute("src") && scriptstr[itest].getAttribute("src").indexOf("jquery.min.js") != -1){
+				addjqsrc=false;
+				callback();
+				break;
+			}
+		}
+	}
+	if(addjqsrc){	
+		var jqtest = document.createElement('script');
+		jqtest.type = 'text/javascript';
+		jqtest.async = true;
+		jqtest.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 't1.chei.com.cn/common/jquery/1.8.3/jquery.min.js';
+		if(jqtest.readyState){
+			//IE
+			jqtest.onreadystatechange=function(){
+				if(jqtest.readyState=="loaded"||jqtest.readyState=="complete"){
+					jqtest.onreadystatechange=null;
+					callback();
+				}
+			};
+		}else{
+			//其他浏览器
+			jqtest.onload=function(){
+				callback();
+			};
+		}
+		if(document.getElementsByTagName("script").length > 0){
+			document.getElementsByTagName('script')[0].parentNode.insertBefore(jqtest, document.getElementsByTagName('script')[0]);
+		}else{
+			document.getElementsByTagName("head")[0].appendChild(jqtest);
+		}
+	}
+}
+//for login div
+function forLogDiv(){
+	$("#j_chknum").focus(function(){
+		if($("#ck_yzm").attr("src")==""){
+			$("#ck_yzm").attr("src","/ValidatorIMG.JPG?ID="+Math.random()*10000);
+			$("#ck_yzm").css("display","block");
+		}
+	});
+	$("#ck_yzm").click(function(){
+		$("#ck_yzm").attr("src","/ValidatorIMG.JPG?ID="+Math.random()*10000);
+	});
+	//登录
+	$("#h_jsforksdl").click(function(e){
+		$("#h_float_login").show();
+		$("#h_arrow").show();
+		$("#h_closeicon").show();
+		return false;
+	});
+	$("#h_float_login,#h_float_login *").click(function(e){
+		$("#h_float_login").show();
+		$("#h_arrow").show();
+		$("#h_closeicon").show();
+		if (!e){
+			var e = window.event;
+		}
+		if(e.stopPropagation){
+			e.stopPropagation();
+		}else{
+			e.cancelBubble = true;
+		}
+	});
+
+	$(":not(#h_login_std *),#h_closeicon").click(function(e){
+		$("#h_float_login").hide();
+		$("#h_arrow").hide();
+		$("#h_closeicon").hide();
+	});
+	
+	$("#h_login_submit").mouseover(function(){
+		$(this).attr("class","h_button_login_on");
+	});
+	$("#h_login_submit").mouseout(function(){
+		$(this).attr("class","h_button_login");
+	});
+	
+	//登录后
+	$("#logined_un,#logined_floatLayer,#loginen_ar,#logined_h_arrow").mouseover(function(){
+		$("#logined_h_arrow").show();
+		$("#logined_floatLayer").show();
+	});
+	$("#logined_un,#logined_floatLayer,#loginen_ar,#logined_h_arrow").mouseout(function(){
+		$("#logined_h_arrow").hide();
+		$("#logined_floatLayer").hide();
+	});
+	$("#logined_un").click(function(){
+		return false;
+	});
+};
+
+loadJquery(forLogDiv);
+</script>
+<div class="bodydiv">
+<div class="divtop">&nbsp;</div>
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+    $(function () {
+        var url = "https://gaokao.chsi.com.cn/lqfs/query.do?entrytype=gkstu&score=500&year=2017&ranger=10&kldm=15&ssdm=11";
+        var sorttype = "0";
+        if (sorttype == "asc") {
+            $(".sortUp").addClass("sortUpOn");
+        } else if (sorttype == "desc") {
+            $(".sortDown").addClass("sortDownOn");
+        } else {
+            $(".sortDown").removeClass("sortDownOn");
+            $(".sortUp").removeClass("sortUpOn");
+        }
+        $(".minus").each(function () {
+            var line = $(this).next();
+            var avg = line.next();
+
+            line = parseInt(line.text());
+            avg = parseInt(avg.text());
+            if (!isNaN(line) && !isNaN(avg)) {
+                $(this).text(avg - line);
+            }
+        });
+        $(".choose_selector").bind({
+            mouseenter: function () {
+                $(this).children(".choose_selector_sub").show();
+            },
+            mouseleave: function () {
+                $(this).children(".choose_selector_sub").hide();
+            }
+        });
+        $(".sortDown").bind({
+            click: function () {
+                window.location.href = url + "&sort=avgscore&type=desc";
+            },
+            mouseenter: function () {
+                $(this).addClass("sortDownOn");
+            },
+            mouseleave: function () {
+                if (url != "desc") {
+                    $(this).removeClass("sortDownOn");
+                }
+            }
+        });
+        $(".sortUp").bind({
+            click: function () {
+                window.location.href = url + "&sort=avgscore&type=asc";
+            },
+            mouseenter: function () {
+                $(this).addClass("sortUpOn");
+            },
+            mouseleave: function () {
+                if (sorttype != "asc") {
+                    $(this).removeClass("sortUpOn");
+                }
+            }
+        });
+        $("#yxszdSelector a").click(function () {
+            $("#yxszdSelector a").removeClass("selected");
+            $(this).addClass("selected");
+            initYxszd();
+            var url = "https://gaokao.chsi.com.cn/lqfs/query.do?entrytype=gkstu&score=500&year=2017&ranger=10&kldm=15&ssdm=11&";
+            window.location.href = url + $("#chooseForm").serialize() + "&chs=1";
+        });
+        $("#yxlxSelector a").click(function () {
+            $("#yxlxSelector a").removeClass("selected");
+            $(this).addClass("selected");
+            initYxlx();
+            var url = "https://gaokao.chsi.com.cn/lqfs/query.do?entrytype=gkstu&score=500&year=2017&ranger=10&kldm=15&ssdm=11&";
+            window.location.href = url + $("#chooseForm").serialize() + "&chs=1";
+        });
+        $("#chooseForm :radio[name='yxls'],:checkbox[name='zgsx']").click(function () {
+            var url = "https://gaokao.chsi.com.cn/lqfs/query.do?entrytype=gkstu&score=500&year=2017&ranger=10&kldm=15&ssdm=11&";
+            window.location.href = url + $("#chooseForm").serialize() + "&chs=1";
+        });
+        initYxszd();
+        initYxlx();
+    })
+
+    function initYxszd() {
+        var ssdm = $("#yxszdSelector .selected").attr("name");
+        if (ssdm != null) {
+            $("#yxszdSelector span:first").text($("#yxszdSelector .selected").text());
+            var ol = $("#chooseForm").find(":input[name='yxszd']");
+            if (ol.size() == 0) {
+                $("#chooseForm").append("<input type='hidden' name='yxszd' value='" + ssdm + "'>");
+            } else {
+                ol.val(ssdm);
+            }
+        }
+    }
+
+    function initYxlx() {
+        var yxlx = $("#yxlxSelector .selected").attr("name");
+        if (yxlx != null) {
+            $("#yxlxSelector span:first").text($("#yxlxSelector .selected").text());
+            var ol = $("#chooseForm").find(":input[name='yxlx']");
+            if (ol.size() == 0) {
+                $("#chooseForm").append("<input type='hidden' name='yxlx' value='" + yxlx + "'>");
+            } else {
+                ol.val(yxlx);
+            }
+        }
+    }
+</script>
+<style type="text/css">
+    td.name a.favorite {
+        float: right;
+        margin-top: 1px;
+    }
+
+    .left td a.a211985 {
+        font-size: 10px;
+        color: #F00;
+        margin: 0 0 0 2px
+    }
+
+    a.yxmc {
+        float: left;
+    }
+</style>
+<div class="banner">
+    
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+    <!--
+    function getYear() {
+        var ssdm = $("select[name='ssdm']").val();
+        $.get("/lqfs/year.jsp", {ssdm: ssdm}, function (data) {
+            var json = eval($.trim(data));
+            $("select[name='year']").children(":gt(0)").remove();
+            var year = $("select[name='year']").parent().attr("year");
+            $.each(json, function (i, n) {
+                var op = "<option value='" + n + "'>" + n + "年</option>";
+                if (n == year) {
+                    var op = "<option value='" + n + "' selected='selected'>" + n + "年</option>";
+                }
+                $("select[name='year']").append(op);
+            });
+            $("select[name='year']").change();
+        });
+        $("#yxmc").autocomplete('schools.jsp', {
+            extraParams: {
+                type: 'recruit_yx'
+            },
+            selectFirst: true,
+            autoFill: true,
+            selectOnly: true,
+            remoteDataType: 'json'
+        });
+        $("#zymc").autocomplete('schools.jsp', {
+            extraParams: {
+                type: 'recruit_zy'
+            },
+            selectFirst: true,
+            autoFill: true,
+            selectOnly: true,
+            remoteDataType: 'json'
+        });
+
+    }
+
+    function getKl() {
+        var ssdm = $("select[name='ssdm']").val();
+        var year = $("select[name='year']").val();
+        $.get("/lqfs/kl.jsp", {ssdm: ssdm, year: year}, function (data) {
+            var json = eval($.trim(data));
+            $("select[name='kldm']").children().remove();
+            if (json.length != 0) {
+                var kldm = $("select[name='kldm']").parent().attr("kl");
+                for (var i = 0; i < json.length; i++) {
+                    var op = "<option value='" + json[i].key + "'>" + json[i].value + "</option>";
+                    if (kldm == json[i].key) {
+                        op = "<option value='" + json[i].key + "' selected='selected'>" + json[i].value + "</option>";
+                    }
+                    $("select[name='kldm']").append(op);
+                }
+            } else {
+                $("select[name='kldm']").append('<option value="-1">科类</option>');
+            }
+        })
+    }
+
+    function initSsdm() {
+        var ssdm = $("select[name='ssdm']").parent().attr("ssdm");
+        $("select[name='ssdm']").children("option[value=" + ssdm + "]").attr("selected", "selected");
+    }
+
+    $(function () {
+        initSsdm();
+        getYear();
+        if ($("#score").val() == 0) {
+            $("#score").val("");
+        }
+        $(".zymctd").hide();
+        $('input:radio[name=type]').click(function () {
+            showName();
+        });
+        showName();
+        $("#zymc").focus(function () {
+            if ($(this).val() == '请输入专业名称') {
+                $(this).val('');
+                return false;
+            }
+        });
+        $("#yxmc").focus(function () {
+            if ($(this).val() == '请输入学校名称') {
+                $(this).val('');
+                return false;
+            }
+        });
+    })
+
+    function showName() {
+        var val = $('input:radio[name=type]:checked').val();
+        if (val == '0') {
+            $("#zymc").attr('disabled', true);
+            $("#yxmc").attr('disabled', true);
+            $("#zymc").val("");
+            $("#yxmc").val("");
+        } else if (val == '1') {
+            $(".yxmctd").show();
+            $(".zymctd").hide();
+            $("#zymc").attr('disabled', true);
+            $("#yxmc").attr('disabled', false);
+            if ($.trim($("#yxmc").val()) == '') {
+                $("#yxmc").val("请输入学校名称")
+            }
+            ;
+        } else {
+            $(".yxmctd").hide();
+            $(".zymctd").show();
+            $("#yxmc").attr('disabled', true);
+            $("#zymc").attr('disabled', false);
+            if ($.trim($("#zymc").val()) == '') {
+                $("#zymc").val("请输入专业名称")
+            }
+            ;
+        }
+    }
+
+    function check() {
+        var f = true;
+        var t = $("select").each(function () {
+            if ($(this).val() == "-1") {
+                alert("请选择" + $(this).children(":eq(0)").text());
+                f = false;
+                return false;
+            }
+        })
+        if (!f) {
+            return false;
+        }
+        var val = $('input:radio[name=type]:checked').val();
+        if (val == '1') {
+            if (($("#yxmc").val() == "请输入学校名称") || $("#yxmc").val().length < 2) {
+                alert("学校名称至少为两个汉字");
+                $("#yxmc").focus();
+                return false;
+            }
+            var reg = /[\u4E00-\u9FA5]/g;
+            if (!reg.test($("#yxmc").val())) {
+                alert("学校名称至少为两个汉字");
+                $("#yxmc").focus();
+                return false;
+            }
+
+        } else if (val == '2') {
+            if (($("#zymc").val() == "请输入专业名称") || $("#zymc").val().length < 2) {
+                alert("专业名称至少为两个汉字");
+                $("#zymc").focus();
+                return false;
+            }
+            var reg = /[\u4E00-\u9FA5]/g;
+            if (!reg.test($("#zymc").val())) {
+                alert("专业名称至少为两个汉字");
+                $("#zymc").focus();
+                return false;
+            }
+        }
+        if (val == '0' || val == '2') {
+            if ($("#score").val() == "") {
+                alert("请输入高考分数");
+                $("#score").focus();
+                return false;
+            }
+        }
+        if ($("#score").val() != "") {
+            var b = /^[0-9]{1,4}$/.test($("#score").val());
+            if (!b) {
+                alert("请输入有效的分数");
+                $("#score").val("").focus();
+                return false;
+            }
+        }
+        return true;
+    }
+
+    //-->
+</script>
+<form name="scoreQueryForm" method="get" action="/lqfs/query.do" onsubmit="return check();">
+    <table border="0" cellpadding="0" cellspacing="8" style="line-height:24px;">
+        <tr>
+            <td ssdm='11'>
+                <select name="ssdm" onchange="getYear()"><option value="-1">考生来源</option>
+                    <option value="11" selected="selected">北京</option>
+<option value="12">天津</option>
+<option value="13">河北</option>
+<option value="14">山西</option>
+<option value="15">内蒙古</option>
+<option value="21">辽宁</option>
+<option value="22">吉林</option>
+<option value="23">黑龙江</option>
+<option value="31">上海</option>
+<option value="32">江苏</option>
+<option value="33">浙江</option>
+<option value="34">安徽</option>
+<option value="35">福建</option>
+<option value="36">江西</option>
+<option value="37">山东</option>
+<option value="41">河南</option>
+<option value="42">湖北</option>
+<option value="43">湖南</option>
+<option value="44">广东</option>
+<option value="45">广西</option>
+<option value="46">海南</option>
+<option value="50">重庆</option>
+<option value="51">四川</option>
+<option value="52">贵州</option>
+<option value="53">云南</option>
+<option value="54">西藏</option>
+<option value="61">陕西</option>
+<option value="62">甘肃</option>
+<option value="63">青海</option>
+<option value="64">宁夏</option>
+<option value="65">新疆</option></select>
+            </td>
+            <td year='2017'><select name="year" onchange="getKl()"><option value="-1">年份</option></select></td>
+            <td kl='15'>
+                <select name="kldm"><option value="-1">科类</option></select>
+            </td>
+            <td>分数：</td>
+            <td><input type="text" name="score" maxlength="4" value="500" id="score" class="s_input1"></td>
+            <td><select name="ranger"><option value="-1">浮动区间</option>
+                <option value="5">±5分</option>
+                <option value="10" selected="selected">±10分</option>
+                <option value="15">±15分</option>
+                <option value="20">±20分</option></select></td>
+            <td>
+                <label><input type="radio" name="type" value="0" 
+                              checked="checked">按分数查</label>
+                <label><input type="radio" name="type" value="1" >按学校查</label>
+                <label><input type="radio" name="type" value="2" >按分数+专业查</label>
+            </td>
+            <td class="yxmctd"></td>
+            <td class="yxmctd"><input type="text" name="yxmc" value="" id="yxmc" class="s_input2"></td>
+            <td class="zymctd"></td>
+            <td class="zymctd"><input type="text" name="zymc" value="" id="zymc" class="s_input2"></td>
+            <td><input type="submit" value="查询" class="s_button1"></td>
+        </tr>
+    </table>
+</form>
+</div>
+<div class="left">
+    <div class="search" id="leftHeight">
+        <div style="text-align:left; padding-top:10px;">
+            参考年份：<span class="c_06c f_bold">2017年</span>&nbsp;
+            考生来源：<span class="c_06c f_bold">北京</span>&nbsp;
+            考生科类：<span class="c_06c f_bold">理工</span>&nbsp;
+            高考分数：<span class="c_06c f_bold">500</span>&nbsp;
+            
+            
+            <br/>
+            <span>注：录取线差 = 高校平均分 - 省市分数线</span></div>
+        <div class="line"></div>
+        <div style="padding:5px 0px;">
+            
+            
+                
+                
+                    
+                        <div style="line-height:30px;color:#06C; margin-bottom:6px; position:relative;">以下高校的录取平均分所在区间为 <strong>500±10</strong> 分
+                        
+                            
+                            <div style="position:absolute; top: -50px; right:0; height:28px; line-height:28px; border:1px solid #D5AAAA; background:#FFFFAA; padding:0 8px;">
+                                <a href="/user/lqfs/userfavoriterecruit.do" target="_blank"
+                                   style="color:#900;">我已收藏的高校/专业</a></div>
+                            
+                        </div>
+                    
+                    
+                    <div class="chooseDiv">
+                        <form name="scoreQueryForm" method="post" action="/lqfs/query.do" id="chooseForm">
+                            <div class="choose_selector" id="yxszdSelector"><span>高校所在地</span><span
+                                    class="iconDiv">&nbsp;</span><span
+                                    class="icon">&nbsp;</span>
+                                <div class="choose_selector_sub">
+                                    <a href="#" name="-1"  class="selected">所有地区</a>
+                                    <div class="clearit">&nbsp;</div>
+                                    
+                                        <a href="#" name="11" >北京</a>
+                                    
+                                        <a href="#" name="12" >天津</a>
+                                    
+                                        <a href="#" name="13" >河北</a>
+                                    
+                                        <a href="#" name="14" >山西</a>
+                                    
+                                        <a href="#" name="15" >内蒙古</a>
+                                    
+                                        <a href="#" name="21" >辽宁</a>
+                                    
+                                        <a href="#" name="22" >吉林</a>
+                                    
+                                        <a href="#" name="23" >黑龙江</a>
+                                    
+                                        <a href="#" name="31" >上海</a>
+                                    
+                                        <a href="#" name="32" >江苏</a>
+                                    
+                                        <a href="#" name="33" >浙江</a>
+                                    
+                                        <a href="#" name="34" >安徽</a>
+                                    
+                                        <a href="#" name="35" >福建</a>
+                                    
+                                        <a href="#" name="36" >江西</a>
+                                    
+                                        <a href="#" name="37" >山东</a>
+                                    
+                                        <a href="#" name="41" >河南</a>
+                                    
+                                        <a href="#" name="42" >湖北</a>
+                                    
+                                        <a href="#" name="43" >湖南</a>
+                                    
+                                        <a href="#" name="44" >广东</a>
+                                    
+                                        <a href="#" name="45" >广西</a>
+                                    
+                                        <a href="#" name="46" >海南</a>
+                                    
+                                        <a href="#" name="50" >重庆</a>
+                                    
+                                        <a href="#" name="51" >四川</a>
+                                    
+                                        <a href="#" name="52" >贵州</a>
+                                    
+                                        <a href="#" name="53" >云南</a>
+                                    
+                                        <a href="#" name="54" >西藏</a>
+                                    
+                                        <a href="#" name="61" >陕西</a>
+                                    
+                                        <a href="#" name="62" >甘肃</a>
+                                    
+                                        <a href="#" name="63" >青海</a>
+                                    
+                                        <a href="#" name="64" >宁夏</a>
+                                    
+                                        <a href="#" name="65" >新疆</a>
+                                    
+                                </div>
+                            </div>
+                            <div class="choose_selector" id="yxlxSelector"><span>高校类型</span><span
+                                    class="iconDiv">&nbsp;</span><span class="icon">&nbsp;</span>
+                                <div class="choose_selector_sub">
+                                    <a href="#"  class="selected"
+                                       name="-1">所有类型</a>
+                                    <div class="clearit">&nbsp;</div>
+                                    <a href="#" 
+                                       name="01">综合院校</a>
+                                    <a href="#" 
+                                       name="02">工科院校</a>
+                                    <a href="#" 
+                                       name="03">农业院校</a>
+                                    <a href="#" 
+                                       name="04">林业院校</a>
+                                    <a href="#" 
+                                       name="05">医药院校</a>
+                                    <a href="#" 
+                                       name="06">师范院校</a>
+                                    <a href="#" 
+                                       name="07">语言院校</a>
+                                    <a href="#" 
+                                       name="08">财经院校</a>
+                                    <a href="#" 
+                                       name="09">政法院校</a>
+                                    <a href="#" 
+                                       name="10">体育院校</a>
+                                    <a href="#" 
+                                       name="11">艺术院校</a>
+                                    <a href="#" 
+                                       name="12">民族院校</a>
+                                        
+                                </div>
+                            </div>
+                            <table cellpadding="0" cellspacing="3" align="left">
+                                <tr>
+                                    <td>院校隶属：</td>
+                                    <td><input type="radio" name="yxls" value="-1" id="yxls_no"></td>
+                                    <td><label for="yxls_no">不限</label></td>
+                                    <td><input type="radio" name="yxls" value="moe" id="yxls_moe"></td>
+                                    <td><label for="yxls_moe">教育部</label></td>
+                                    <td><input type="radio" name="yxls" value="min" id="yxls_min"></td>
+                                    <td><label for="yxls_min">其它部委</label></td>
+                                    <td><input type="radio" name="yxls" value="loc" id="yxls_loc"></td>
+                                    <td><label for="yxls_loc">地方</label>&nbsp;</td>
+                                    <td><input type="checkbox" name="zgsx" value="985" id="zgsx_985"></td>
+                                    <td><label for="zgsx_985">985高校</label></td>
+                                    <td><a href="/gkxx/gkcs/201112/20111231/384459706.html" target="_blank"><img
+                                            src='https://t2.chei.com.cn/gaokao/images/common/wenhao.png' width="13"
+                                            height="13"/></a></td>
+                                    <td><input type="checkbox" name="zgsx" value="211" id="zgsx_211"></td>
+                                    <td><label for="zgsx_211">211高校</label></td>
+                                    <td><a href="/gkxx/gkcs/200410/20041001/384459440.html" target="_blank"><img
+                                            src='https://t2.chei.com.cn/gaokao/images/common/wenhao.png' width="13"
+                                            height="13"/></a></td>
+                                    <td><input type="checkbox" name="zgsx" value="yjsy" id="zgsx_yjsy"></td>
+                                    <td><label for="zgsx_yjsy">研究生院</label></td>
+                                    <td><a href="//yz.chsi.com.cn/kyzx/kp/201101/20110119/161300374.html"
+                                           target="_blank"><img src='https://t2.chei.com.cn/gaokao/images/common/wenhao.png'
+                                                                width="13" height="13"/></a></td>
+                                </tr>
+                            </table>
+                        </form>
+                        <div class="clearit">&nbsp;</div>
+                    </div>
+                    
+                        <table width="100%" cellspacing="1" cellpadding="3" border="0" bgcolor="#E1E1E1" align="center"
+                               style="margin:0px auto;">
+                            <tr valign="middle" bgcolor="#F6FEF5" align="center">
+                                <th>高校名称</th>
+                                <th width="40">所在地</th>
+                                
+                                <th width="60">录取批次</th>
+                                
+                                    <th width="60">录取线差</th>
+                                
+                                <th width="80">省市分数线</th>
+                                <th width="95">
+                                    <table cellpadding="0" cellspacing="0" align="center">
+                                        <tr>
+                                            <td>高校平均分</td>
+                                            
+                                                <td>
+                                                    <span class="sortDown" title="降序排列">&nbsp;</span></td>
+                                                <td><span class="sortUp" title="升序排列">&nbsp;</span>
+                                                </td>
+                                            
+                                        </tr>
+                                    </table>
+                                </th>
+                                <th>专业<br/>平均分</th>
+                            </tr>
+                            
+                                <tr bgcolor="#FFFFFF" onmouseout="this.style.background='#FFFFFF'"
+                                    onmouseover="this.style.background='#FFFFEE'" style="background:#FFFFFF;">
+                                    <td align="left" class="name">
+                                        <a title="点击查看院校信息" class="yxmc" target="_blank" href="/sch/schoolInfo--schId-12.dhtml">北京服装学院</a>
+                                        
+                                            
+                                                <a href='javascript:void(0)' id='2002592974' class='favorite yx new'></a>
+                                            
+                                            
+                                        
+                                    </td>
+                                    <td>北京</td>
+                                    
+                                    <td nowrap="nowrap">本科二批</td>
+                                    
+                                        <td class="minus"></td>
+                                    
+                                    <td>439(第二批)<span
+                                            style="color:#999;"></span>
+                                    </td>
+                                    <td>
+                                        
+                                            501
+                                        
+                                        
+                                    </td>
+                                    <td><a target="_blank"
+                                           href="/lqfs/zy.do?yxdm=10012&ssdm=11&pcdm=3&kldm=15&year=2017">查看</a>
+                                    </td>
+                                </tr>
+                            
+                                <tr bgcolor="#FFFFFF" onmouseout="this.style.background='#FFFFFF'"
+                                    onmouseover="this.style.background='#FFFFEE'" style="background:#FFFFFF;">
+                                    <td align="left" class="name">
+                                        <a title="点击查看院校信息" class="yxmc" target="_blank" href="/sch/schoolInfo--schId-16.dhtml">北京石油化工学院</a>
+                                        
+                                            
+                                                <a href='javascript:void(0)' id='2002593141' class='favorite yx new'></a>
+                                            
+                                            
+                                        
+                                    </td>
+                                    <td>北京</td>
+                                    
+                                    <td nowrap="nowrap">本科二批</td>
+                                    
+                                        <td class="minus"></td>
+                                    
+                                    <td>439(第二批)<span
+                                            style="color:#999;"></span>
+                                    </td>
+                                    <td>
+                                        
+                                            501
+                                        
+                                        
+                                    </td>
+                                    <td><a target="_blank"
+                                           href="/lqfs/zy.do?yxdm=10017&ssdm=11&pcdm=3&kldm=15&year=2017">查看</a>
+                                    </td>
+                                </tr>
+                            
+                                <tr bgcolor="#FFFFFF" onmouseout="this.style.background='#FFFFFF'"
+                                    onmouseover="this.style.background='#FFFFEE'" style="background:#FFFFFF;">
+                                    <td align="left" class="name">
+                                        <a title="点击查看院校信息" class="yxmc" target="_blank" href="/sch/schoolInfo--schId-19.dhtml">北京农学院</a>
+                                        
+                                            
+                                                <a href='javascript:void(0)' id='2002593225' class='favorite yx new'></a>
+                                            
+                                            
+                                        
+                                    </td>
+                                    <td>北京</td>
+                                    
+                                    <td nowrap="nowrap">本科二批</td>
+                                    
+                                        <td class="minus"></td>
+                                    
+                                    <td>439(第二批)<span
+                                            style="color:#999;"></span>
+                                    </td>
+                                    <td>
+                                        
+                                            505
+                                        
+                                        
+                                    </td>
+                                    <td><a target="_blank"
+                                           href="/lqfs/zy.do?yxdm=10020&ssdm=11&pcdm=3&kldm=15&year=2017">查看</a>
+                                    </td>
+                                </tr>
+                            
+                                <tr bgcolor="#FFFFFF" onmouseout="this.style.background='#FFFFFF'"
+                                    onmouseover="this.style.background='#FFFFEE'" style="background:#FFFFFF;">
+                                    <td align="left" class="name">
+                                        <a title="点击查看院校信息" class="yxmc" target="_blank" href="/sch/schoolInfo--schId-52.dhtml">中国民航大学</a>
+                                        
+                                            
+                                                <a href='javascript:void(0)' id='2002594423' class='favorite yx new'></a>
+                                            
+                                            
+                                        
+                                    </td>
+                                    <td>天津</td>
+                                    
+                                    <td nowrap="nowrap">本科提前批</td>
+                                    
+                                        <td class="minus"></td>
+                                    
+                                    <td><span
+                                            style="color:#999;"></span>
+                                    </td>
+                                    <td>
+                                        
+                                            506
+                                        
+                                        
+                                    </td>
+                                    <td><a target="_blank"
+                                           href="/lqfs/zy.do?yxdm=10059&ssdm=11&pcdm=1&kldm=15&year=2017">查看</a>
+                                    </td>
+                                </tr>
+                            
+                                <tr bgcolor="#FFFFFF" onmouseout="this.style.background='#FFFFFF'"
+                                    onmouseover="this.style.background='#FFFFEE'" style="background:#FFFFFF;">
+                                    <td align="left" class="name">
+                                        <a title="点击查看院校信息" class="yxmc" target="_blank" href="/sch/schoolInfo--schId-58.dhtml">天津职业技术师范大学</a>
+                                        
+                                            
+                                                <a href='javascript:void(0)' id='2002594835' class='favorite yx new'></a>
+                                            
+                                            
+                                        
+                                    </td>
+                                    <td>天津</td>
+                                    
+                                    <td nowrap="nowrap">本科二批</td>
+                                    
+                                        <td class="minus"></td>
+                                    
+                                    <td>439(第二批)<span
+                                            style="color:#999;"></span>
+                                    </td>
+                                    <td>
+                                        
+                                            495
+                                        
+                                        
+                                    </td>
+                                    <td><a target="_blank"
+                                           href="/lqfs/zy.do?yxdm=10066&ssdm=11&pcdm=3&kldm=15&year=2017">查看</a>
+                                    </td>
+                                </tr>
+                            
+                                <tr bgcolor="#FFFFFF" onmouseout="this.style.background='#FFFFFF'"
+                                    onmouseover="this.style.background='#FFFFEE'" style="background:#FFFFFF;">
+                                    <td align="left" class="name">
+                                        <a title="点击查看院校信息" class="yxmc" target="_blank" href="/sch/schoolInfo--schId-67.dhtml">河北地质大学</a>
+                                        
+                                            
+                                                <a href='javascript:void(0)' id='2002595214' class='favorite yx new'></a>
+                                            
+                                            
+                                        
+                                    </td>
+                                    <td>河北</td>
+                                    
+                                    <td nowrap="nowrap">本科二批</td>
+                                    
+                                        <td class="minus"></td>
+                                    
+                                    <td>439(第二批)<span
+                                            style="color:#999;"></span>
+                                    </td>
+                                    <td>
+                                        
+                                            510
+                                        
+                                        
+                                    </td>
+                                    <td><a target="_blank"
+                                           href="/lqfs/zy.do?yxdm=10077&ssdm=11&pcdm=3&kldm=15&year=2017">查看</a>
+                                    </td>
+                                </tr>
+                            
+                                <tr bgcolor="#FFFFFF" onmouseout="this.style.background='#FFFFFF'"
+                                    onmouseover="this.style.background='#FFFFEE'" style="background:#FFFFFF;">
+                                    <td align="left" class="name">
+                                        <a title="点击查看院校信息" class="yxmc" target="_blank" href="/sch/schoolInfo--schId-68.dhtml">华北水利水电大学</a>
+                                        
+                                            
+                                                <a href='javascript:void(0)' id='2002595269' class='favorite yx new'></a>
+                                            
+                                            
+                                        
+                                    </td>
+                                    <td>河南</td>
+                                    
+                                    <td nowrap="nowrap">本科二批</td>
+                                    
+                                        <td class="minus"></td>
+                                    
+                                    <td>439(第二批)<span
+                                            style="color:#999;"></span>
+                                    </td>
+                                    <td>
+                                        
+                                            503
+                                        
+                                        
+                                    </td>
+                                    <td><a target="_blank"
+                                           href="/lqfs/zy.do?yxdm=10078&ssdm=11&pcdm=3&kldm=15&year=2017">查看</a>
+                                    </td>
+                                </tr>
+                            
+                                <tr bgcolor="#FFFFFF" onmouseout="this.style.background='#FFFFFF'"
+                                    onmouseover="this.style.background='#FFFFEE'" style="background:#FFFFFF;">
+                                    <td align="left" class="name">
+                                        <a title="点击查看院校信息" class="yxmc" target="_blank" href="/sch/schoolInfo--schId-73.dhtml">河北建筑工程学院</a>
+                                        
+                                            
+                                                <a href='javascript:void(0)' id='2002595556' class='favorite yx new'></a>
+                                            
+                                            
+                                        
+                                    </td>
+                                    <td>河北</td>
+                                    
+                                    <td nowrap="nowrap">本科二批</td>
+                                    
+                                        <td class="minus"></td>
+                                    
+                                    <td>439(第二批)<span
+                                            style="color:#999;"></span>
+                                    </td>
+                                    <td>
+                                        
+                                            492
+                                        
+                                        
+                                    </td>
+                                    <td><a target="_blank"
+                                           href="/lqfs/zy.do?yxdm=10084&ssdm=11&pcdm=3&kldm=15&year=2017">查看</a>
+                                    </td>
+                                </tr>
+                            
+                                <tr bgcolor="#FFFFFF" onmouseout="this.style.background='#FFFFFF'"
+                                    onmouseover="this.style.background='#FFFFEE'" style="background:#FFFFFF;">
+                                    <td align="left" class="name">
+                                        <a title="点击查看院校信息" class="yxmc" target="_blank" href="/sch/schoolInfo--schId-93.dhtml">中北大学</a>
+                                        
+                                            
+                                                <a href='javascript:void(0)' id='2002596342' class='favorite yx new'></a>
+                                            
+                                            
+                                        
+                                    </td>
+                                    <td>山西</td>
+                                    
+                                    <td nowrap="nowrap">本科二批</td>
+                                    
+                                        <td class="minus"></td>
+                                    
+                                    <td>439(第二批)<span
+                                            style="color:#999;"></span>
+                                    </td>
+                                    <td>
+                                        
+                                            509
+                                        
+                                        
+                                    </td>
+                                    <td><a target="_blank"
+                                           href="/lqfs/zy.do?yxdm=10110&ssdm=11&pcdm=3&kldm=15&year=2017">查看</a>
+                                    </td>
+                                </tr>
+                            
+                                <tr bgcolor="#FFFFFF" onmouseout="this.style.background='#FFFFFF'"
+                                    onmouseover="this.style.background='#FFFFEE'" style="background:#FFFFFF;">
+                                    <td align="left" class="name">
+                                        <a title="点击查看院校信息" class="yxmc" target="_blank" href="/sch/schoolInfo--schId-119.dhtml">沈阳航空航天大学</a>
+                                        
+                                            
+                                                <a href='javascript:void(0)' id='2002597583' class='favorite yx new'></a>
+                                            
+                                            
+                                        
+                                    </td>
+                                    <td>辽宁</td>
+                                    
+                                    <td nowrap="nowrap">本科二批</td>
+                                    
+                                        <td class="minus"></td>
+                                    
+                                    <td>439(第二批)<span
+                                            style="color:#999;"></span>
+                                    </td>
+                                    <td>
+                                        
+                                            494
+                                        
+                                        
+                                    </td>
+                                    <td><a target="_blank"
+                                           href="/lqfs/zy.do?yxdm=10143&ssdm=11&pcdm=3&kldm=15&year=2017">查看</a>
+                                    </td>
+                                </tr>
+                            
+                                <tr bgcolor="#FFFFFF" onmouseout="this.style.background='#FFFFFF'"
+                                    onmouseover="this.style.background='#FFFFEE'" style="background:#FFFFFF;">
+                                    <td align="left" class="name">
+                                        <a title="点击查看院校信息" class="yxmc" target="_blank" href="/sch/schoolInfo--schId-120.dhtml">沈阳理工大学</a>
+                                        
+                                            
+                                                <a href='javascript:void(0)' id='2002597634' class='favorite yx new'></a>
+                                            
+                                            
+                                        
+                                    </td>
+                                    <td>辽宁</td>
+                                    
+                                    <td nowrap="nowrap">本科二批</td>
+                                    
+                                        <td class="minus"></td>
+                                    
+                                    <td>439(第二批)<span
+                                            style="color:#999;"></span>
+                                    </td>
+                                    <td>
+                                        
+                                            497
+                                        
+                                        
+                                    </td>
+                                    <td><a target="_blank"
+                                           href="/lqfs/zy.do?yxdm=10144&ssdm=11&pcdm=3&kldm=15&year=2017">查看</a>
+                                    </td>
+                                </tr>
+                            
+                                <tr bgcolor="#FFFFFF" onmouseout="this.style.background='#FFFFFF'"
+                                    onmouseover="this.style.background='#FFFFEE'" style="background:#FFFFFF;">
+                                    <td align="left" class="name">
+                                        <a title="点击查看院校信息" class="yxmc" target="_blank" href="/sch/schoolInfo--schId-140.dhtml">沈阳师范大学</a>
+                                        
+                                            
+                                                <a href='javascript:void(0)' id='2002598451' class='favorite yx new'></a>
+                                            
+                                            
+                                        
+                                    </td>
+                                    <td>辽宁</td>
+                                    
+                                    <td nowrap="nowrap">本科二批</td>
+                                    
+                                        <td class="minus"></td>
+                                    
+                                    <td>439(第二批)<span
+                                            style="color:#999;"></span>
+                                    </td>
+                                    <td>
+                                        
+                                            493
+                                        
+                                        
+                                    </td>
+                                    <td><a target="_blank"
+                                           href="/lqfs/zy.do?yxdm=10166&ssdm=11&pcdm=3&kldm=15&year=2017">查看</a>
+                                    </td>
+                                </tr>
+                            
+                                <tr bgcolor="#FFFFFF" onmouseout="this.style.background='#FFFFFF'"
+                                    onmouseover="this.style.background='#FFFFEE'" style="background:#FFFFFF;">
+                                    <td align="left" class="name">
+                                        <a title="点击查看院校信息" class="yxmc" target="_blank" href="/sch/schoolInfo--schId-141.dhtml">渤海大学</a>
+                                        
+                                            
+                                                <a href='javascript:void(0)' id='2002598495' class='favorite yx new'></a>
+                                            
+                                            
+                                        
+                                    </td>
+                                    <td>辽宁</td>
+                                    
+                                    <td nowrap="nowrap">本科二批</td>
+                                    
+                                        <td class="minus"></td>
+                                    
+                                    <td>439(第二批)<span
+                                            style="color:#999;"></span>
+                                    </td>
+                                    <td>
+                                        
+                                            495
+                                        
+                                        
+                                    </td>
+                                    <td><a target="_blank"
+                                           href="/lqfs/zy.do?yxdm=10167&ssdm=11&pcdm=3&kldm=15&year=2017">查看</a>
+                                    </td>
+                                </tr>
+                            
+                                <tr bgcolor="#FFFFFF" onmouseout="this.style.background='#FFFFFF'"
+                                    onmouseover="this.style.background='#FFFFEE'" style="background:#FFFFFF;">
+                                    <td align="left" class="name">
+                                        <a title="点击查看院校信息" class="yxmc" target="_blank" href="/sch/schoolInfo--schId-158.dhtml">长春工业大学</a>
+                                        
+                                            
+                                                <a href='javascript:void(0)' id='2002599152' class='favorite yx new'></a>
+                                            
+                                            
+                                        
+                                    </td>
+                                    <td>吉林</td>
+                                    
+                                    <td nowrap="nowrap">本科二批</td>
+                                    
+                                        <td class="minus"></td>
+                                    
+                                    <td>439(第二批)<span
+                                            style="color:#999;"></span>
+                                    </td>
+                                    <td>
+                                        
+                                            490
+                                        
+                                        
+                                    </td>
+                                    <td><a target="_blank"
+                                           href="/lqfs/zy.do?yxdm=10190&ssdm=11&pcdm=3&kldm=15&year=2017">查看</a>
+                                    </td>
+                                </tr>
+                            
+                                <tr bgcolor="#FFFFFF" onmouseout="this.style.background='#FFFFFF'"
+                                    onmouseover="this.style.background='#FFFFEE'" style="background:#FFFFFF;">
+                                    <td align="left" class="name">
+                                        <a title="点击查看院校信息" class="yxmc" target="_blank" href="/sch/schoolInfo--schId-173.dhtml">黑龙江大学</a>
+                                        
+                                            
+                                                <a href='javascript:void(0)' id='2002599924' class='favorite yx new'></a>
+                                            
+                                            
+                                        
+                                    </td>
+                                    <td>黑龙江</td>
+                                    
+                                    <td nowrap="nowrap">本科二批</td>
+                                    
+                                        <td class="minus"></td>
+                                    
+                                    <td>439(第二批)<span
+                                            style="color:#999;"></span>
+                                    </td>
+                                    <td>
+                                        
+                                            506
+                                        
+                                        
+                                    </td>
+                                    <td><a target="_blank"
+                                           href="/lqfs/zy.do?yxdm=10212&ssdm=11&pcdm=3&kldm=15&year=2017">查看</a>
+                                    </td>
+                                </tr>
+                            
+                        </table>
+                        <div class="page">
+                            <table cellpadding="0" cellspacing="0" border="0" style="margin:0 auto;">
+                                <tr>
+                                    <td>
+</script>		
+                                    </td>
+                                </tr>
+                            </table>
+                        </div>
+                    
+                    
+                
+            
+        </div>
+        
+
+
+
+<div class="notlogin" style=" font-size:14px; font-weight:normal">
+	
+<a href="/lqfs/help.jsp" target="_blank" style="color:#06C;">收藏志愿功能介绍&gt;&gt;</a>
+</div>
+
+
+
+<script>
+	function login() {
+		window.location.href="/user/userAccountLogin.do?entrytype=gkstu";
+	}
+</script>
+    </div>
+    <div class="searchFoot"></div>
+</div>
+<div class="right">
+    <div class="rDiv">
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h3>北京历年分数线(本科)</h3>
+    <div class="rDivCnt" id="rightHeight">
+    
+    
+    <div style="text-align:center; font-weight:bold; color:#060;">2017年</div>
+    <table cellpadding="3" cellspacing="1" border="0" width="100%" bgcolor="#CCCCCC" style="margin-bottom:6px;">
+    <tr align="center" bgcolor="#FFFFDF">
+    <td>&nbsp;</td>
+    <td>第一批</td>
+    <td>第二批</td>
+    <td>第三批</td>
+    </tr>
+    <tr align="center" bgcolor="#FFFFFF">
+    <td bgcolor="#FFFFDF">文科</td>
+    <td>555</td>
+    <td>468</td>
+    <td>null</td>
+    </tr>
+    <tr align="center" bgcolor="#FFFFFF">
+      <td bgcolor="#FFFFDF">理科</td>
+      <td>537</td>
+      <td>439</td>
+      <td>null</td>
+    </tr>
+    </table>
+    
+    <div style="text-align:center; font-weight:bold; color:#060;">2016年</div>
+    <table cellpadding="3" cellspacing="1" border="0" width="100%" bgcolor="#CCCCCC" style="margin-bottom:6px;">
+    <tr align="center" bgcolor="#FFFFDF">
+    <td>&nbsp;</td>
+    <td>第一批</td>
+    <td>第二批</td>
+    <td>第三批</td>
+    </tr>
+    <tr align="center" bgcolor="#FFFFFF">
+    <td bgcolor="#FFFFDF">文科</td>
+    <td>583</td>
+    <td>532</td>
+    <td>488</td>
+    </tr>
+    <tr align="center" bgcolor="#FFFFFF">
+      <td bgcolor="#FFFFDF">理科</td>
+      <td>548</td>
+      <td>494</td>
+      <td>438</td>
+    </tr>
+    </table>
+    
+    <div style="text-align:center; font-weight:bold; color:#060;">2015年</div>
+    <table cellpadding="3" cellspacing="1" border="0" width="100%" bgcolor="#CCCCCC" style="margin-bottom:6px;">
+    <tr align="center" bgcolor="#FFFFDF">
+    <td>&nbsp;</td>
+    <td>第一批</td>
+    <td>第二批</td>
+    <td>第三批</td>
+    </tr>
+    <tr align="center" bgcolor="#FFFFFF">
+    <td bgcolor="#FFFFDF">文科</td>
+    <td>579</td>
+    <td>527</td>
+    <td>477</td>
+    </tr>
+    <tr align="center" bgcolor="#FFFFFF">
+      <td bgcolor="#FFFFDF">理科</td>
+      <td>548</td>
+      <td>495</td>
+      <td>452</td>
+    </tr>
+    </table>
+    
+    <div style="font-weight:bold; text-align:center; border:1px solid #87C47B; background:#F4FFF4; color:#060; height:27px; line-height:27px; margin:10px 0 6px 0;">查询使用说明</div>
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr align="left" valign="top">
+    <td>1.</td>
+    <td>考生科类：数据仅包含文史、理工和文理综合，不包含艺术类、体育类、外语类及单独考试等。</td>
+    </tr>
+    <tr align="left" valign="top">
+    <td>2.</td>
+    <td>录取层次：数据仅包含上述科类的本科各批次，不包含高职(专科)。</td>
+    </tr>
+    <tr align="left" valign="top">
+    <td>3.</td>
+    <td>考生可查询各高校各专业近三年在各省录取的分数情况，部分省仅提供两年数据。</td>
+    </tr>
+    <tr align="left" valign="top">
+    <td>4.</td>
+    <td>个别省份同一批次划分两类(或四类)分数线，要注意区分；并注意当年招生计划变化情况。</td>
+    </tr>
+    <tr align="left" valign="top">
+    <td>5.</td>
+    <td>数据仅供参考，因数据标准原因会有局部调整。</td>
+    </tr>
+    </table>
+    
+    </div>
+    <script type="text/javascript">
+    $(function(){
+    	$(".rDivCnt td").filter(function(){return $(this).text()=="null"}).text("");
+    })
+    </script>
+    
+        <div class="rDivFoot">&nbsp;</div>
+    </div>
+</div>
+<div class="clearit"></div>
+<div style="margin-top:4px; width:950px;">
+
+
+<style>
+.footer-2017{ text-align: center; padding: 10px 0; font-size: 12px; line-height: 26px;}
+</style>
+<div class="footer-2017">
+    <a href="//www.chsi.com.cn/" target="_blank">学信网</a>　|　<a href="http://chesicc.moe.edu.cn/zxgw/zxjs/201604/20160418/1529506207.html " target="_blank">中心简介</a>　|　<a href="//www.chsi.com.cn/about/contact.shtml" target="_blank">联系我们</a>　|　<a href="//www.chsi.com.cn/about/copyright.shtml" target="_blank">版权声明</a>　|　<a href="/sitemap.jsp" target="_blank">网站地图</a>　|　<a href="/help/index.jsp" target="_blank">帮助中心</a>　|　<a href="//www.chsi.com.cn/ad/index.shtml" target="_blank">网站广告</a><br />
+    主办单位：<a href="http://chesicc.moe.edu.cn/" target="_blank">全国高等学校学生信息咨询与就业指导中心</a>　|　Copyright © 2003-2019 <a href="//www.chsi.com.cn/" target="_parent">学信网</a> All Rights Reserved<br />
+    <a target="_blank" href="http://www.miibeian.gov.cn/">京ICP备19004913号</a>&nbsp;&nbsp;&nbsp;&nbsp;服务热线：010-82199588&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu#chsi.com.cn（将#替换为@）
+</div>
+</div>
+</div>
+
+<div id="userLogin" title="提示信息">
+<table cellpadding="0" cellspacing="3" align="center" style="margin:0 auto"><tr><td align="left"><span id="myDialogText">查询更多的信息</span>，请先 <a href="/user/userAccountLogin.do?entrytype=gkstu" style="color: #06C;">登录</a></td></tr><tr><td align="left">新用户请先 <a href="/user/userAccountLogin.do?entrytype=gkstu" style="color: #06C;">免费注册</a></td></tr><tr><td align="left"><a href="/lqfs/help.jsp" target="_blank" style="color: #06C;">收藏志愿功能介绍</a></td></tr></table>
+</div>
+<div class="respondMessage">提示信息</div>
+</body>
+</html>
+<script type="text/javascript">
+$(function(){
+	resizeH();
+	$('#userLogin').dialog({
+        bgiframe: true,
+        autoOpen: false,
+        width: 300,
+        modal: true,
+        buttons: {
+            "确定": function() { 
+                $(this).dialog("close");
+                window.open("/user/loginPub.jsp");
+            },"取消": function() { 
+                $(this).dialog("close"); 
+            } 
+        }
+    });
+	$(".favorite").click(function(){
+		var id = $(this).attr("id");
+		var op = $(this).hasClass("new")?"new":"remove";
+		var type= $(this).hasClass("yx")?"0":"1";
+		var obj = $(this);
+		$.get("/lqfs/favorite.do",{op:op,type:type,infoId:id},function(data){
+			var d = $.trim(data);
+			if(d=="-1"){
+				$("#myDialogText").text("收藏专业志愿或院校志愿");
+				$("#userLogin").dialog("open"); 
+			}else if(d=="-2"){
+				showMessage("请先补全高中信息",obj);
+			}else if(d=="-3"){
+                showMessage("个人信息的科类与该专业或高校所属的科类不同",obj);
+            }else if(d=="0"){
+				if((obj).hasClass("new")){
+					showMessage("收藏成功!",obj);
+					//$(obj).removeClass("new").addClass("remove");
+					$("a.favorite[id='"+id+"']").removeClass("new").addClass("remove");
+				}else{
+					showMessage("取消收藏成功!",obj);
+					$("a.favorite[id='"+id+"']").removeClass("remove").addClass("new");
+				}
+			}else if(d=="1"){
+				showMessage("已经收藏该院校",obj);
+				$(obj).removeClass("new").addClass("remove");
+			}else if(d=="2"){
+				showMessage("已经收藏该专业",obj);
+				$(obj).removeClass("new").addClass("remove");
+			}else if(d=="3"){
+				showMessage("超过可收藏院校总数",obj);
+			}else if(d=="4"){
+				showMessage("超过该院校可收藏专业总数",obj);
+			}else if(d=="4"){
+				showMessage("超过可收藏总数",obj);
+			}else if(d=="10"){
+				showMessage("只能收藏生源地和您所在地相同的专业",obj);
+			}
+		});
+	})
+})
+function resizeH(){
+	var lh = $("#leftHeight").height() - 35;
+	var rh = $("#rightHeight").height();
+	var addh = lh - rh;
+	if(addh > 0){
+		$("#rightHeight").height($("#rightHeight").height() + addh);
+	}else{
+		$("#leftHeight").height($("#leftHeight").height() - addh);
+	}
+}
+function showMessage(msg,ele){
+    var msgDiv = $('.respondMessage');
+    msgDiv.stop(true, true);
+    msgDiv.html(msg);
+	msgDiv.css({ top: 0, left: 0 });
+	var top = ele.offset().top - 42;
+	var left = ele.offset().left - 60;
+	msgDiv.offset({ top: top, left: left });;
+    msgDiv.fadeIn(300).delay(1000).fadeOut(300);
+}
+</script>

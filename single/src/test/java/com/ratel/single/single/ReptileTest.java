@@ -1,8 +1,13 @@
 package com.ratel.single.single;
 
+import com.power.common.util.FileUtil;
 import com.power.common.util.OkHttp3Util;
+import org.jsoup.Jsoup;
+import org.jsoup.nodes.Document;
 import org.junit.Test;
 
+import java.io.File;
+import java.io.IOException;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -27,19 +32,24 @@ public class ReptileTest {
 
 
         Map<String, String> header = new HashMap<>();
-        header.put("Cookie","aliyungf_tc=AQAAAFf/J3jOJwYA3yxXccBx7MidNZA7; acw_tc=2760825e15558112504208873ea133e765bc1ed0808e217b287a1ecb197095; _ga=GA1.3.624643797.1555811251; _gid=GA1.3.1620976712.1555811251; JSESSIONID=C132E519A1C05CD493E0C05DACEC8195; _gat_gtag_UA_100524_6=1");
-        header.put("Referer","https://gaokao.chsi.com.cn/lqfs/query.do?ssdm=11&year=2017&kldm=11&score=600&ranger=10&entrytype=gkstu  ");
-        header.put("Host","gaokao.chsi.com.cn");
-        header.put("entrytype","gkstu");
-
+        header.put("Cookie","aliyungf_tc=AQAAAAh98lcBCgsARuQRt2IEBOSt1/cF; acw_tc=2760821d15558977047377958e78fd36ae3d20e574f85ee6709bb367eb4420; _ga=GA1.3.1153965120.1555897721; _gid=GA1.3.1823233480.1555897721; JSESSIONID=8309A74FD57F587DCC0646FBBBA0CB74");
 
         String url = "https://gaokao.chsi.com.cn/lqfs/query.do";
-        String s = OkHttp3Util.syncGet(url, param);
+        String s = OkHttp3Util.syncGet(url, param,header);
+
         System.out.println(s);
 
-
-
     }
+
+    @Test
+    public void jsoup() throws IOException {
+        File file = new File("D:\\myspace\\single-boot\\gaokaohtml.txt");
+        Document parse = Jsoup.parse(file, "UTF-8");
+        System.out.println(parse);
+    }
+
+
+    public static String html = "";
 
 
 }
