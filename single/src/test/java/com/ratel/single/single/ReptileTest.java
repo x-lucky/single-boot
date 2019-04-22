@@ -1,9 +1,11 @@
 package com.ratel.single.single;
 
-import com.power.common.util.FileUtil;
 import com.power.common.util.OkHttp3Util;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
+import org.jsoup.nodes.Element;
+import org.jsoup.nodes.Node;
+import org.jsoup.select.Elements;
 import org.junit.Test;
 
 import java.io.File;
@@ -42,14 +44,33 @@ public class ReptileTest {
     }
 
     @Test
-    public void jsoup() throws IOException {
+    public void jsoup() throws Exception {
         File file = new File("D:\\myspace\\single-boot\\gaokaohtml.txt");
-        Document parse = Jsoup.parse(file, "UTF-8");
-        System.out.println(parse);
+        Document document = Jsoup.parse(file, "UTF-8");
+        Element body = document.body();
+        Elements table = body.getElementsByTag("table");
+        //高校信息
+        Element schoolAllEle = table.get(2);
+
+        //高校信息带标题
+        Elements trs = schoolAllEle.getElementsByTag("tr");
+
+        //验证数据
+        Elements ths = trs.get(0).getElementsByTag("th");
+        Element valid = ths.get(0);
+        Node node = valid.childNode(0);
+        if (node.toString().equals("高校名称")) {
+            throw new Exception("没数据了");
+        }
+
+        int size = trs.size();
+        for (int i = 1; i < size; i++) {
+            Element schoolInfoEle = trs.get(i);
+            System.out.println(schoolInfoEle);
+        }
+
+
     }
-
-
-    public static String html = "";
 
 
 }
