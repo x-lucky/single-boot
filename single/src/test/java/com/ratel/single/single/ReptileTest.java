@@ -30,9 +30,9 @@ public class ReptileTest {
     @Test
     public void test(){
         Map<String, String> param = new HashMap<>();
-        param.put("ssdm","11");
+        param.put("ssdm","11"); //考区
         param.put("year","2017");
-        param.put("kldm","11");
+        param.put("kldm","11"); //文理科类型
         param.put("score","600");
         param.put("ranger","10");
         param.put("type","0");
