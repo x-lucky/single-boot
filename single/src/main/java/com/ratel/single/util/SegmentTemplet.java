@@ -45,18 +45,18 @@ public interface SegmentTemplet<T,K> {
                 continue;
             }
             List<K> execute = null;
-            try {
-                threadPool.execute(new Runnable() {
-                    @Override
-                    public void run() {
-                        System.out.println("\n\n\n------------------------" + Thread.currentThread().getName());
+            threadPool.execute(new Runnable() {
+                @Override
+                public void run() {
+                    try {
                         execute(currentList);
+                    }catch (Exception e){
+                        e.printStackTrace();
+                    }finally {
                         countDownLatch.countDown();
                     }
-                });
-            }catch (Exception e){
-                e.printStackTrace();
-            }
+                }
+            });
             if (execute == null || execute.isEmpty()) {
                 continue;
             }
