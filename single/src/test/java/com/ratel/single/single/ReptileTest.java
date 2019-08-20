@@ -20,6 +20,42 @@ import java.util.Map;
  */
 public class ReptileTest {
 
+//    ssdms
+//    <option value="11">北京
+//            <option value="12">天津
+//            <option value="13">河北
+//            <option value="14">山西
+//            <option value="15">内蒙古
+//            <option value="21">辽宁
+//            <option value="22">吉林
+//            <option value="23">黑龙江
+//            <option value="31">上海
+//            <option value="32">江苏
+//            <option value="33">浙江
+//            <option value="34">安徽
+//            <option value="35">福建
+//            <option value="36">江西
+//            <option value="37">山东
+//            <option value="41">河南
+//            <option value="42">湖北
+//            <option value="43">湖南
+//            <option value="44">广东
+//            <option value="45">广西
+//            <option value="46">海南
+//            <option value="50">重庆
+//            <option value="51">四川
+//            <option value="52">贵州
+//            <option value="53">云南
+//            <option value="54">西藏
+//            <option value="61">陕西
+//            <option value="62">甘肃
+//            <option value="63">青海
+//            <option value="64">宁夏
+//            <option value="65">新疆
+
+
+
+
 
 
 

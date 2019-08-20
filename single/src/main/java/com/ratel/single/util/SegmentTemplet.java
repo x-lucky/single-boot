@@ -31,7 +31,7 @@ public interface SegmentTemplet<T,K> {
             //当次循环的参数
             int startIndex = batchSize * i;
             if (i == ceil - 1){
-                currentList = list.subList(startIndex,startIndex + (size == batchSize ? batchSize : size % batchSize));
+                currentList = list.subList(startIndex,size);
             }else{
                 currentList = list.subList(startIndex,startIndex + batchSize);
             }
