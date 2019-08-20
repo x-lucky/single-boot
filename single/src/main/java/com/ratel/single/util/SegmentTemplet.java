@@ -2,6 +2,7 @@ package com.ratel.single.util;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.concurrent.*;
 
 /**
  * 分段执行模板
@@ -12,6 +13,9 @@ import java.util.List;
  * @date 2019/3/20
  */
 public interface SegmentTemplet<T,K> {
+    ExecutorService threadPool = new ThreadPoolExecutor(10, 20000,
+            60L, TimeUnit.SECONDS,
+            new LinkedBlockingQueue<Runnable>());
 
     /**
      * 将数据分段
@@ -19,13 +23,15 @@ public interface SegmentTemplet<T,K> {
      * @param batchSize
      * @return
      */
-    default List<K> batch(List<T> list,Integer batchSize){
+    default List<K> batch(List<T> list, Integer batchSize){
         List<K> result = new ArrayList<>();
         int size = list.size();
         if (size == 0 || batchSize == 0) {
             return result;
         }
+        //循环次数
         int ceil = (int) Math.ceil(size / (double)batchSize);
+        CountDownLatch countDownLatch = new CountDownLatch(ceil);
         for (int i = 0; i < ceil ; i++) {
             List<T> currentList;
             //当次循环的参数
@@ -38,11 +44,28 @@ public interface SegmentTemplet<T,K> {
             if (currentList == null || currentList.isEmpty()) {
                 continue;
             }
-            List<K> execute = execute(currentList);
+            List<K> execute = null;
+            try {
+                threadPool.execute(new Runnable() {
+                    @Override
+                    public void run() {
+                        System.out.println("\n\n\n------------------------" + Thread.currentThread().getName());
+                        execute(currentList);
+                        countDownLatch.countDown();
+                    }
+                });
+            }catch (Exception e){
+                e.printStackTrace();
+            }
             if (execute == null || execute.isEmpty()) {
                 continue;
             }
             result.addAll(execute);
+        }
+        try {
+            countDownLatch.await();
+        } catch (InterruptedException e) {
+            e.printStackTrace();
         }
         return result;
     }
