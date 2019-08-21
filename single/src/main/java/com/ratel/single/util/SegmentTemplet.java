@@ -45,16 +45,13 @@ public interface SegmentTemplet<T,K> {
                 continue;
             }
             List<K> execute = null;
-            threadPool.execute(new Runnable() {
-                @Override
-                public void run() {
-                    try {
-                        execute(currentList);
-                    }catch (Exception e){
-                        e.printStackTrace();
-                    }finally {
-                        countDownLatch.countDown();
-                    }
+            threadPool.execute(() -> {
+                try {
+                    execute(currentList);
+                }catch (Exception e){
+                    e.printStackTrace();
+                }finally {
+                    countDownLatch.countDown();
                 }
             });
             if (execute == null || execute.isEmpty()) {
